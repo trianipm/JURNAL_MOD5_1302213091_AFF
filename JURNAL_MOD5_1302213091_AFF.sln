@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JURNAL_MOD5_1302213091_AFF", "JURNAL_MOD5_1302213091_AFF\JURNAL_MOD5_1302213091_AFF.csproj", "{8C8D6D31-4FE7-4F0C-A2BE-2BB1A70E709E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8D6D31-4FE7-4F0C-A2BE-2BB1A70E709E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8D6D31-4FE7-4F0C-A2BE-2BB1A70E709E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8D6D31-4FE7-4F0C-A2BE-2BB1A70E709E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8D6D31-4FE7-4F0C-A2BE-2BB1A70E709E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC911E9D-0260-4E0A-AAF1-6FC5D9537446}
+	EndGlobalSection
+EndGlobal
